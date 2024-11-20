@@ -1,1 +1,1 @@
-# Machine-Learning-aplicado-a-estudio-de-Macrosomia
+Proyecto inter disciplinario entre la Universidad Nacional del Sur y un médico obstetra de la ciudad de Puerto Madryn, Argentina. Se realizó un completo trabajo de análisis exploratorio de datos y Machine Learning con el objetivo de encontrar relación entre características maternas y condición de macrosomia en recién nacidos.
